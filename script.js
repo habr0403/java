@@ -20,7 +20,7 @@ printOutput("My favorite colors are: " + favoriteColors);
 
 let person = {
     name: "Brandon",
-    age: "age",
+    age: "38",
     city: "Crystal"
 };
 printOutput("Person object: " + JSON.stringify(person));
